@@ -1,0 +1,29 @@
+.hero
+    &--image-landscape
+        .container
+            .content
+                padding-top: 0
+                display: flex
+                flex-direction: column-reverse
+                .hero-text
+                    margin-top: $spacing-3
+                @include media-breakpoint-up(desktop)
+                    .hero-text
+                        position: relative
+                        width: 100%
+                        padding-bottom: 0
+                        .hero-actions
+                            top: 0
+                            right: 0
+                            position: absolute
+                            margin-top: 0
+                            .dropdown-share
+                                position: relative
+                    figure
+                        width: 100%
+                        img
+                            object-fit: cover
+                            object-position: top
+                            aspect-ratio: 21/9
+h1
+    color: $color-accent
