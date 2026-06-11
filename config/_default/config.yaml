@@ -5,9 +5,11 @@ params:
     position: hero
   search:
     active: true
+  breadcrumb:
+    position: after-hero
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo-dark.svg'
+    footer: '/assets/images/logo-light.svg'
   home:
     head:
       title: site
