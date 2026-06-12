@@ -1,22 +1,30 @@
 default:
 contents_reading_time:
-  seconds: 6
+  seconds: 7
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: contact
-
-
+    title: >-
+      Contact
+    slug: >-
+      contact
     ranks:
       base: 2
-      children: 2
+      self: 2
+      children: 3
     top:
-      active: false
+      active: true
+      title: 
+        value: >-
+          Contact
+        heading: 2
 
     data:
 
-
+      name: >-
+        Cabinet GLM Avocats
       information: >-
         <p><b>Accès</b></p><p>Tram A et B : arrêt Hôtel de Ville<br>Parking : Pey Berland et République</p>
       contact_details:
