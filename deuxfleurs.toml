@@ -15,10 +15,34 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/personnes/hedwige-mure/index.html"
+to = "/equipes/hedwige-mure/"
+
+[[redirects]]
+from = "/personnes/thibault-laforcade/index.html"
+to = "/equipes/thibault-laforcade/"
+
+[[redirects]]
+from = "/personnes/margot-galuzet/index.html"
+to = "/equipes/margot-galuzet/"
+
+[[redirects]]
+from = "/personnes/maelys-nabucet/index.html"
+to = "/equipes/maelys-nabucet/"
+
+[[redirects]]
+from = "/personnes/aurelia-etcheberrigaray/index.html"
+to = "/equipes/aurelia-etcheberrigaray/"
+
+[[redirects]]
 from = "/actualites/2026-07-21-flottille-pour-gaza/index.html"
 to = "/actualites/2020-01-01-flottille-pour-gaza/"
 
 [[redirects]]
 from = "/personnes/index.html"
 to = "/equipes/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/equipes/equipe-editoriale/"
 
