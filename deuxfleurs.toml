@@ -18,3 +18,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 from = "/actualites/2026-07-21-flottille-pour-gaza/index.html"
 to = "/actualites/2020-01-01-flottille-pour-gaza/"
 
+[[redirects]]
+from = "/personnes/index.html"
+to = "/equipes/"
+
