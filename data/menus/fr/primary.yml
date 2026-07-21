@@ -10,6 +10,15 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Nos expertises
+  slug: nos-expertises
+  target: "/nos-domaines-dexpertise/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/nos-domaines-dexpertise"
+  file: content/fr/pages/nos-domaines-dexpertise/_index.html
 - title: Contact
   slug: contact
   target: "/contact/"
