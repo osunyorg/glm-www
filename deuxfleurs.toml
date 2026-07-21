@@ -14,3 +14,7 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/actualites/2026-07-21-flottille-pour-gaza/index.html"
+to = "/actualites/2020-01-01-flottille-pour-gaza/"
+
