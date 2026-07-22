@@ -23,6 +23,10 @@ from = "/personnes/thibault-laforcade/index.html"
 to = "/equipes/thibault-laforcade/"
 
 [[redirects]]
+from = "/actualites/2026-07-22-injures-racistes-envers-des-salaries-du-regent-cafe-a-bordeaux/index.html"
+to = "/actualites/2026-02-12-injures-racistes-envers-des-salaries-du-regent-cafe-a-bordeaux/"
+
+[[redirects]]
 from = "/personnes/maelys-nabucet/index.html"
 to = "/equipes/maelys-nabucet/"
 
