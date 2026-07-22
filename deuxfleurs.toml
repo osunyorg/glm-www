@@ -23,10 +23,6 @@ from = "/personnes/thibault-laforcade/index.html"
 to = "/equipes/thibault-laforcade/"
 
 [[redirects]]
-from = "/personnes/margot-galuzet/index.html"
-to = "/equipes/margot-galuzet/"
-
-[[redirects]]
 from = "/personnes/maelys-nabucet/index.html"
 to = "/equipes/maelys-nabucet/"
 
