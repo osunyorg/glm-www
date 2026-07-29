@@ -5,6 +5,5 @@ allowed_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
-  - "www.lemediatv.fr"
   - "www.tf1info.fr"
   - "www.google.com"
