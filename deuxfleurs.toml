@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/actualites/2026-01-08-from-the-river-to-the-sea/index.html"
+to = "/actualites/2026-03-17-from-the-river-to-the-sea/"
+
+[[redirects]]
 from = "/personnes/hedwige-mure/index.html"
 to = "/equipes/hedwige-mure/"
 
@@ -41,4 +45,8 @@ to = "/equipes/"
 [[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/equipes/equipe-editoriale/"
+
+[[redirects]]
+from = "/actualites/2026-07-29-from-the-river-to-the-sea/index.html"
+to = "/actualites/2026-03-17-from-the-river-to-the-sea/"
 
