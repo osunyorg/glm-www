@@ -39,6 +39,12 @@ contents:
                 05 56 23 87 10
               value: >-
                 tel:0556238710
+        emails:
+          list:
+            - label: >-
+                cabinet@glmavocats.fr
+              value: >-
+                mailto:cabinet@glmavocats.fr
 
       timetable:
 
