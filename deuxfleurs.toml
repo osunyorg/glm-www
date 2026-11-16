@@ -43,6 +43,10 @@ from = "/personnes/aurelia-etcheberrigaray/index.html"
 to = "/equipes/aurelia-etcheberrigaray/"
 
 [[redirects]]
+from = "/equipes/margot-galuzet-1/actualites/index.html"
+to = "/equipes/margot-galuzet/actualites/"
+
+[[redirects]]
 from = "/personnes/index.html"
 to = "/equipes/"
 
